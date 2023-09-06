@@ -47,11 +47,8 @@ I'm a passionate Flutter developer and a computer science student. Welcome to my
 
 ## Get in Touch
 
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
-- 📫 Reach out to me via email at your.email@example.com.
-- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter-handle).
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/feed/).
 - 🌐 Connect with me on [Facebook](https://web.facebook.com/jamali.hassan.946).
-- 📎 Connect with me on [LinkedIn](https://www.linkedin.com/feed/).
 - 📧 Email me at jamalihassan0307@gmail.com.
 - 📱 Contact me on WhatsApp at [923073921189](https://wa.me/923073921189).
 
