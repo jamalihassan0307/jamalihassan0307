@@ -3,7 +3,10 @@
   <img src="https://scontent.flyp6-1.fna.fbcdn.net/v/t39.30808-6/322711871_681484957098098_776596105727537306_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeFyT7LcljxJ3wtaSZ6UQUPevZENGkymDWK9kQ0aTKYNYn3ZFnkw1yO9pTSNXtZnchksyrJBSTk5DHSCOoPs1Fnp&_nc_ohc=pWOMv5ckah4AX8o812y&_nc_zt=23&_nc_ht=scontent.flyp6-1.fna&oh=00_AfCSYQrNJDiVhtkkcm4nmEMSoedvOa2s-8XVnVBWSToR6Q&oe=64FD3BF5" alt="Your Name" width="150" height="150" />
 </div>
 
-# Hello, I'm Ali Hassan 👋
+<div align="center">
+  <h1>Hello, I'm Ali Hassan 👋</h1>
+  <p>I'm a passionate Flutter developer and a computer science student. Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of technology and making a meaningful impact in the world of software development.</p>
+</div>
 
 I'm a passionate Flutter developer and a computer science student. Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of technology and making a meaningful impact in the world of software development.
 
@@ -60,20 +63,8 @@ I'm a passionate Flutter developer and a computer science student. Welcome to my
 </div>
 
 
-## Let's Collaborate
 
-I'm always open to collaborating on exciting and innovative projects. If you have any ideas or proposals, please don't hesitate to contact me. Let's work together to build something great!
 
-<div align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" />
-  </a>
-</div>
+
 
 <!-- Replace "YOUR_PROFILE_PICTURE_URL_HERE" with the URL of your circular profile picture -->
