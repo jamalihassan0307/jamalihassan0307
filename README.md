@@ -4,7 +4,10 @@
 </div>
 
 <div align="center">
-  <h1>Hello, I'm Ali Hassan 👋</h1>
+  <h1>Hello, I'm Ali Hassan <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
   <p>I'm a passionate Flutter developer and a computer science student. Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of technology and making a meaningful impact in the world of software development.</p>
 </div>
 
