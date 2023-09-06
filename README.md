@@ -8,7 +8,7 @@
   <p>I'm a passionate Flutter developer and a computer science student. Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of technology and making a meaningful impact in the world of software development.</p>
 </div>
 
-I'm a passionate Flutter developer and a computer science student. Welcome to my GitHub profile! I'm dedicated to pushing the boundaries of technology and making a meaningful impact in the world of software development.
+
 
 ## About Me
 
