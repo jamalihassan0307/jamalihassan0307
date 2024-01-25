@@ -122,7 +122,75 @@
 - 🧪 Postman
 - 📜 RESTful APIs
 
-## Projects
+# Projects Screenshots
+
+
+<table border="1">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(25).png"
+        
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(28).png"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><b>INTRODUCTION</b></p>
+    </td>
+    <td align="center">
+      <p><b>SKILLS</b></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(31).png"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(129).png"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <p><b>SOCIALS</b></p>
+    </td>
+    <td align="center">
+      <p><b>BADGES</b></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(130).png"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(82).png"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><b>SUPPORT</b></p>
+    </td>
+    <td align="center">
+      <p><b>DRAWER</b></p>
+    </td>
+  </tr>
+</table>
 
 ### Flutter Projects
 - 📱 [Project 1](https://github.com/jamalihassan0307/taxtip02-09-23/tree/master): Description of the project.
