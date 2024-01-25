@@ -139,11 +139,11 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <p><b>INTRODUCTION</b></p>
+    <td align="center">
+      <p><b>Login Page</b></p>
     </td>
-    <td align="right">
-      <p><b>SKILLS</b></p>
+    <td align="center">
+      <p><b>Home</b></p>
     </td>
   </tr>
 
@@ -162,10 +162,10 @@
 
   <tr>
     <td align="center">
-      <p><b>SOCIALS</b></p>
+      <p><b>Data Graph</b></p>
     </td>
     <td align="center">
-      <p><b>BADGES</b></p>
+      <p><b>Mobile Code</b></p>
     </td>
   </tr>
 
@@ -183,10 +183,10 @@
   </tr>
   <tr>
     <td align="center">
-      <p><b>SUPPORT</b></p>
+      <p><b>Profile</b></p>
     </td>
     <td align="center">
-      <p><b>DRAWER</b></p>
+      <p><b>Login</b></p>
     </td>
   </tr>
 </table>
