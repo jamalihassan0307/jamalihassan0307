@@ -127,23 +127,22 @@
 
 <table border="1">
   <tr>
-    <td align="center">
+    <td align="left">
       <img
         src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(25).png"
-        
       />
     </td>
-    <td align="center">
+    <td align="right">
       <img
         src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(28).png"
       />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <p><b>INTRODUCTION</b></p>
     </td>
-    <td align="center">
+    <td align="right">
       <p><b>SKILLS</b></p>
     </td>
   </tr>
