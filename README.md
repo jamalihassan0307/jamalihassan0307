@@ -1,4 +1,4 @@
-<p align="center">
+mi<p align="center">
   <img src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/gif2.gif.gif" width="200px">
 </p>
 
@@ -420,7 +420,7 @@
 </table>
 
 ### Flutter Projects
-- 📱 [Project 1](https://github.com/jamalihassan0307/taxtip02-09-23/tree/master): Description of the project.
+- 📱 [Doctor appointment app](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql): Description of the project.
 - 📱 [Project 2](https://github.com/7skiessolution/7-Skies-Solution): Description of the project.
 
 
