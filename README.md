@@ -92,7 +92,7 @@ mi<p align="center">
       <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
       <td align="center"><a href="https://github.com/jamalihassan0307"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
       <td align="center"><a href="https://github.com/sponsors/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=github&svgfill=white"></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/jam-ali-hassan-300bab281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
       <td align="center"><a href="https://wa.me/923073921189"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
       <td align="center"><a href="https://www.facebook.com/jamali.hassan.946"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
     </tr>
@@ -430,14 +430,14 @@ mi<p align="center">
 
 ## Get in Touch
 
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/feed/).
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hassan-b17815281/).
 - 🌐 Connect with me on [Facebook](https://web.facebook.com/jamali.hassan.946).
 - 📧 Email me at jamalihassan0307@gmail.com.
 - 📱 Contact me on WhatsApp at [923073921189](https://wa.me/923073921189).
 
 <div align="center">
   <a href="https://web.facebook.com/jamali.hassan.946" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
-  <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   <a href="mailto:jamalihassan0307@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
   <a href="https://wa.me/923073921189" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
 </div>
