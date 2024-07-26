@@ -130,7 +130,6 @@
   <table border="3" align="center">
     <tr>
       <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm" target="_blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail" width="55" /></a></td>
-      <td align="center"><a href="https://github.com/jamalihassan0307" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="GitHub" width="65" /></a></td>
       <td align="center"><a href="https://github.com/jamalihassan0307" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65" /></a></td>
       <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
       <td align="center"><a href="https://wa.me/923073921189" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
@@ -139,8 +138,7 @@
     <tr>
       <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
       <td align="center"><a href="https://github.com/jamalihassan0307"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
-      <td align="center"><a href="https://github.com/sponsors/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=github&svgfill=white"></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+       <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
       <td align="center"><a href="https://wa.me/923073921189"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
       <td align="center"><a href="https://www.facebook.com/jamali.hassan.946"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
     </tr>
