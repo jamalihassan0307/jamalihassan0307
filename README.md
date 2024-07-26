@@ -1,5 +1,5 @@
-<b>Hi</b><p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400px">
+<b>Hi I'm Flutter Develper</b><p align="center">
+  <img src="./thoughtworks-gif_dribbble.gif" width="400px">
 </p>
 
 <h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ali+Hassan" alt="Typing SVG" /></a></h1>
@@ -7,20 +7,68 @@
 
 
 
+## 👨🏻‍💻 About Me:
 
+- 🙋‍♂️ All about me is at **[My Website](https://doctor-appointment-app-a9ca9.web.app/)**
 
-
-
-## About Me
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-- 🔭 I'm a 2022 Graduate and my branch is Computer Science.
-- 🌱 I’m currently working as a Flutter Developer.
+- 🔭 I'm a 2022 Graduate and my branch is `Computer Science`.
+  
+- 🌱 I’m currently working as a `Flutter Developer`.
+  
 - 👬 I’m looking to collaborate on difference Repository.
+  
 - :zap: I’m currently learning Project Management Skills.
+  
 - 🎯 I’m focusing on Data Science.
-- <details open>
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `APIS Dot Net`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time `playing games`
+
+<!--
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+ <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+ <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+ <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+ <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+</p>
+-->
+
+
+
+- <details >
   <summary>☎️ How to reach me :</summary>
   <table border="3" radius="20">
     <td><a href="https://wa.me/923073921189" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
@@ -34,7 +82,7 @@
 
 
 
-<details open>
+<details >
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
   <!--📏LINE-->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -77,7 +125,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </details>
 
-<details open> 
+<details > 
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
   <table border="3" align="center">
     <tr>
@@ -122,9 +170,10 @@
 - 🧪 Postman
 - 📜 RESTful APIs
 
-# Projects Screenshots
 
-
+<details open> 
+ <summary align="left"><b>Projects Screenshots</b></summary>
+  
 [![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/1.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
 [![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/2.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
 [![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/3.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
@@ -136,7 +185,7 @@
 [![GitHub Logo](https://github.com/jamalihassan0307/elderly-Exercisec-App-with-sqflite-database/raw/main/ex_app.png)](https://github.com/jamalihassan0307/elderly-Exercisec-App-with-sqflite-database)
 [![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Plant-App/raw/main/plantPic.png)](https://github.com/jamalihassan0307/Flutter-Plant-App)
 
-
+ 
 <table border="1">
   <tr>
     <td align="left">
@@ -203,16 +252,12 @@
   </tr>
 </table>
 
-
-
+</details >
+<!--
 ### Flutter Projects
 - 📱 [Doctor appointment app](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql): Description of the project.
-- 📱 [Project 2](https://github.com/7skiessolution/7-Skies-Solution): Description of the project.
+- 📱 [Project 2](https://github.com/7skiessolution/7-Skies-Solution): Description of the project.-->
 
-
-## Contributions
-
-- 💪 I'm an active contributor to open-source projects, and you can find my contributions in my [Open Source Contributions Repository](https://github.com/your-github-username/open-source-contributions).
 
 ## Get in Touch
 
@@ -221,12 +266,6 @@
 - 📧 Email me at jamalihassan0307@gmail.com.
 - 📱 Contact me on WhatsApp at [923073921189](https://wa.me/923073921189).
 
-<div align="center">
-  <a href="https://web.facebook.com/jamali.hassan.946" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
-  <a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  <a href="mailto:jamalihassan0307@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
-  <a href="https://wa.me/923073921189" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
-</div>
 
 # About This Language
 
