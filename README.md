@@ -2,7 +2,7 @@
   <img src="./thoughtworks-gif_dribbble.gif" width="400px">
 </p>
 
-<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ali+Hassan" alt="Typing SVG" /></a></h1>
+<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=true&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ali+Hassan" alt="Typing SVG" /></a></h1>
 
 
 
@@ -80,7 +80,58 @@
   </table>
 </details>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamalihassan0307&show_icons=true&theme=light" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalihassan0307&theme=light" alt="GitHub Streak" style="max-width: 100%;" />
+</p>
+
+<h3 align="left">Trophies:</h3>
+<p align="left">
+  <a href="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=light">
+    <img src="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=light" alt="Trophies" style="max-width: 100%;">
+  </a>
+</p> 
+
+<h3 align="left">Top Languages:</h3>
+<p align="left">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=light" alt="Top Languages" style="max-width: 100%;">
+  </a>
+</p>
 
 <details >
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
