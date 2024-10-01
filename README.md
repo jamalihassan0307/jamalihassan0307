@@ -145,13 +145,13 @@
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c-original.svg" alt="C" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F17034874-Flutter-The-One-Technology-to-Create-the-App-of-Your-Vision%2Fattachments%2F12118831%3Fmode%3Dmedia&psig=AOvVaw21HQhi8Qtiodauou6lISUs&ust=1695026066125000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjG8aaesYEDFQAAAAAdAAAAABAJ" alt="Flutter" width="50" height="50"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://a.storyblok.com/f/42126/0d5a24a1b8/flutter_logo.png/m/1200x0/filters:quality(70)/" alt="Flutter" width="50" height="50"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/></a></td>
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat&amp;labelColor=white&amp;logo=c-in-hexagon&logoColor=03599C"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat&amp;labelColor=white&amp;logo=cpp2&logoColor=9C033A"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?style=flat&amp;labelColor=white&amp;logo=python&logoColor=yellow"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Java" src="https://img.shields.io/badge/Java-03599C.svg?style=flat&amp;labelColor=white&amp;logo=java&logoColor=03599C"></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img alt="Flutter" src="https://img.shields.io/badge/flutter-007396.svg?style=flat&amp;labelColor=white&amp;logo=flutter&logoColor=03599C"></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img alt="Java" src="https://img.shields.io/badge/Java-03599C.svg?style=flat&amp;labelColor=white&amp;logo=java&logoColor=blue"></a></td>
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" height="40"/></a></td>
