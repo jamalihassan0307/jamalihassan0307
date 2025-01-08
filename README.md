@@ -115,21 +115,21 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamalihassan0307&show_icons=true&theme=light" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalihassan0307&theme=light" alt="GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamalihassan0307&show_icons=true&theme=dark" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalihassan0307&theme=dark" alt="GitHub Streak" style="max-width: 100%;" />
 </p>
 
 <h3 align="left">Trophies:</h3>
 <p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=light">
-    <img src="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=light" alt="Trophies" style="max-width: 100%;">
+  <a href="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark">
+    <img src="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark" alt="Trophies" style="max-width: 100%;">
   </a>
 </p> 
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=light">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=light" alt="Top Languages" style="max-width: 100%;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;">
   </a>
 </p>
 
