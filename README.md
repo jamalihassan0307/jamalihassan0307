@@ -137,7 +137,7 @@
   </a>
 </p>
 
-<details >
+<details open>
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
   <!--📏LINE-->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -180,7 +180,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </details>
 
-<details > 
+<details open> 
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
   <table border="3" align="center">
     <tr>
@@ -203,25 +203,6 @@
 
 
 
-### Programming Languages		
-
-
-- 🔷 Dart
-- 🔶 C++
-- 🟦 Java
-- 🔶 OOP
-
-### Frameworks and Technologies
-- 📱 Flutter
-- ♨️ Java
-
-
-### Tools and Platforms
-- 💻 Visual Studio Code
-- 👨‍💻 Dev-C++
-- 📊 GitHub
-- 🧪 Postman
-- 📜 RESTful APIs
 
 
 <details open> 
