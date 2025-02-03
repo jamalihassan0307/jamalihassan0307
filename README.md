@@ -291,3 +291,11 @@
 ### Flutter Projects
 - 📱 [Doctor appointment app](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql): Description of the project.
 - 📱 [Project 2](https://github.com/7skiessolution/7-Skies-Solution): Description of the project.-->
+
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/github-contribution-grid-snake.svg">
+</p>
