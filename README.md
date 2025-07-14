@@ -1,301 +1,317 @@
-<b>Hi I'm Flutter Develper</b><p align="center">
-  <img src="./thoughtworks-gif_dribbble.gif" width="400px">
+<!-- HEADER & BANNER -->
+<p align="center">
+  <img src="./thoughtworks-gif_dribbble.gif" width="400px"/>
+</p>
+<h1 align="center">Ali Hassan</h1>
+<p align="center">
+  🚀 Flutter & .NET Core Developer | Cross-Platform Apps | Scalable Web & Mobile Solutions | API & Cloud Services
 </p>
 
-<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=true&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ali+Hassan" alt="Typing SVG" /></a></h1>
-
-
-
-
-## 👨🏻‍💻 About Me:
-
-- 🙋‍♂️ All about me is at **[My Website](https://jamalihassan0307.github.io/portfolio.github.io/)**
-
-- 🔭 I'm a 2022 Graduate and my branch is `Computer Science`.
-  
-- 🌱 I’m currently working as a `Flutter Developer`.
-  
-- 👬 I’m looking to collaborate on difference Repository.
-  
-- :zap: I’m currently learning Project Management Skills.
-  
-- 🎯 I’m focusing on Data Science.
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `APIS Dot Net`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time `playing games`
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-<!--
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-## 🛠️ Technologies and Tools I use:
-
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
--->
-
-
-
-- <details >
-  <summary>☎️ How to reach me :</summary>
-  <table border="3" radius="20">
-    <td><a href="https://wa.me/923073921189" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
-   
-    <td><a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
-  
-    <td><a href="https://www.facebook.com/jamali.hassan.946" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45px" /> </a>
-    <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
-  </table>
-</details>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+<!-- ABOUT ME -->
+<h2 align="center">👋 About Me</h2>
+<p align="center">
+  <b>Full-Stack Developer</b> specializing in <b>Flutter</b> & <b>ASP.NET Core</b>.<br>
+  I build high-performance, scalable mobile & web applications with a focus on clean architecture and efficient APIs.
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamalihassan0307&show_icons=true&theme=dark" alt="Salem's GitHub stats" style="max-width: 100%; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalihassan0307&theme=dark" alt="GitHub Streak" style="max-width: 100%;" />
+<ul align="center">
+  <li>📱 <b>Mobile:</b> Android & iOS apps using Flutter (MVVM, Clean Architecture)</li>
+  <li>🛡️ <b>Backend:</b> Secure APIs with ASP.NET Core, Firebase, SQL</li>
+  <li>🔗 <b>Integrations:</b> 3rd-party APIs, SDKs, Stripe, Gemini AI</li>
+  <li>🗂️ <b>Project Management:</b> End-to-end delivery, CI/CD, team leadership</li>
+</ul>
+
+<p align="center">
+  <a href="https://jamalihassan0307.github.io/portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28"/></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://github.com/jamalihassan0307" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
 </p>
-
-<h3 align="left">Trophies:</h3>
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark">
-    <img src="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark" alt="Trophies" style="max-width: 100%;">
-  </a>
-</p> 
-
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalihassan0307&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;">
-  </a>
-</p>
-
-<details open>
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
-  <!--📏LINE-->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-    
-  <table border="5" align="center">
-    <td align="center">
-      <details open>
-        <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/👨‍💻_Programming_languages-crimson?style=plastic&labelColor=black&logo=1&logoColor=black" width="250px" height="25px" /></a></summary>
-        <table border="3" align="center">
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c-original.svg" alt="C" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://a.storyblok.com/f/42126/0d5a24a1b8/flutter_logo.png/m/1200x0/filters:quality(70)/" alt="Flutter" width="50" height="50"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/></a></td>
-          <tr>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat&amp;labelColor=white&amp;logo=c-in-hexagon&logoColor=03599C"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat&amp;labelColor=white&amp;logo=cpp2&logoColor=9C033A"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Flutter" src="https://img.shields.io/badge/flutter-007396.svg?style=flat&amp;labelColor=white&amp;logo=flutter&logoColor=03599C"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Java" src="https://img.shields.io/badge/Java-03599C.svg?style=flat&amp;labelColor=white&amp;logo=java&logoColor=blue"></a></td>
-          <tr>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" width="40" height="40"/></a></td>
-          <tr>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&amp;labelColor=white&amp;logo=html5&logoColor=E34F26"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&amp;labelColor=white&amp;logo=css3&logoColor=1572B6"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&amp;labelColor=white&amp;logo=javascript&logoColor=yellow"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&amp;labelColor=white&amp;logo=bootstrap&logoColor=7952B3"></a></td>
-        </table>
-      </details>
-    </td>
-  
-   
-   
-
-    
-  </table>
-
-  <!--📏LINE-->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</details>
-
-<details open> 
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
-  <table border="3" align="center">
-    <tr>
-      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm" target="_blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail" width="55" /></a></td>
-      <td align="center"><a href="https://github.com/jamalihassan0307" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65" /></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
-      <td align="center"><a href="https://wa.me/923073921189" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
-      <td align="center"><a href="https://www.facebook.com/jamali.hassan.946" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=jamalihassan0307@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
-      <td align="center"><a href="https://github.com/jamalihassan0307"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
-       <td align="center"><a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
-      <td align="center"><a href="https://wa.me/923073921189"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
-      <td align="center"><a href="https://www.facebook.com/jamali.hassan.946"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
-    </tr>
-  </table>
-</details>
-
-
-
-
-
-
-<details open> 
- <summary align="left"><b>Projects Screenshots</b></summary>
-  
-[![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/1.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
-[![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/2.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
-[![GitHub Logo](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql/blob/master/ss/3.png)](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql)
-[![GitHub Logo](https://github.com/jamalihassan0307/Ludo-Fluter-For-FourPlayer-With-Provider-with-sound/blob/main/assets/Copy%20of%20Flutter%20App%20UI%20(1).png)](https://github.com/jamalihassan0307/Ludo-Fluter-For-FourPlayer-With-Provider-with-sound)
-[![GitHub Logo](https://github.com/jamalihassan0307/Furniture-App-Flutter/blob/main/assets/Copy%20of%20full%20stack%20app.png)](https://github.com/jamalihassan0307/Furniture-App-Flutter)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Cake-App/blob/main/assets/Copy%20of%20Flutter%20App%20UI.png)](https://github.com/jamalihassan0307/Flutter-Cake-App)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-ChatGPT-Text-and-image-generater/raw/master/Copy%20of%20Flutter%20App%20UI.png)](https://github.com/jamalihassan0307/Flutter-ChatGPT-Text-and-image-generater)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Travel-App/blob/main/assets/traveling%20app.png)](https://github.com/jamalihassan0307/Flutter-Travel-App)
-[![GitHub Logo](https://github.com/jamalihassan0307/elderly-Exercisec-App-with-sqflite-database/raw/main/ex_app.png)](https://github.com/jamalihassan0307/elderly-Exercisec-App-with-sqflite-database)
-[![GitHub Logo](https://github.com/jamalihassan0307/Flutter-Plant-App/raw/main/plantPic.png)](https://github.com/jamalihassan0307/Flutter-Plant-App)
-
- 
-<table border="1">
-  <tr>
-    <td align="left">
-      <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(25).png"
-      />
-    </td>
-    <td align="right">
-      <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(28).png"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p><b>Login Page</b></p>
-    </td>
-    <td align="center">
-      <p><b>Home</b></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(31).png"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(129).png"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <p><b>Data Graph</b></p>
-    </td>
-    <td align="center">
-      <p><b>Mobile Code</b></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(130).png"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/pic/Screenshot%20(82).png"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p><b>Profile</b></p>
-    </td>
-    <td align="center">
-      <p><b>Login</b></p>
-    </td>
-  </tr>
-</table>
-
-</details >
-<!--
-### Flutter Projects
-- 📱 [Doctor appointment app](https://github.com/jamalihassan0307/Doctor-Appointment-App-with-sql): Description of the project.
-- 📱 [Project 2](https://github.com/7skiessolution/7-Skies-Solution): Description of the project.-->
-
-
-### Thanks for Visiting my GitHub Profile!
 
 ---
+
+<!-- CONTACT -->
+<h2 align="center">📫 Contact</h2>
 <p align="center">
-<img src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/github-contribution-grid-snake.svg">
+  <a href="mailto:alihassanjamtmp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://wa.me/923073921189"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+</p>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="icons/flutter.svg" width="40"/>
+  <img src="icons/NET core.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-0277BD?style=for-the-badge&logo=provider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-FFCA28?style=for-the-badge&logo=getx&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=riverpod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-00C7B7?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Chatbot-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+<!-- FEATURED PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/seekho.png" width="180"/><br>
+        <b>Seekho</b><br>
+        <sub>Educational App | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/Seekho/releases/download/1.0.1/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/elderly-Exercisec-App.png" width="180"/><br>
+        <b>Elderly-Exercisec-App</b><br>
+        <sub>Fitness for Elderly | Flutter, SQLite</sub><br>
+        <a href="https://github.com/jamalihassan0307/Elderly-Exercisec-App/releases/download/1.1.0/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/chatgpt-app.png" width="180"/><br>
+        <b>ChatGPT-APP</b><br>
+        <sub>AI Chat & Image | Flutter, REST API</sub><br>
+        <a href="https://github.com/jamalihassan0307/ChatGPT-APP/releases/download/1.1.0/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/pet_shop.png" width="180"/><br>
+        <b>PetShop</b><br>
+        <sub>Pet Care | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/PetShop/releases/download/1.1.0/app-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/Black_Stage.png" width="180"/><br>
+        <b>Black Stage</b><br>
+        <sub>Social & Streaming | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/Black-Stage/releases/download/1.1.0/app-debug.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/YTHub.png" width="180"/><br>
+        <b>YTHub</b><br>
+        <sub>YouTube Browser | Flutter, Google APIs</sub><br>
+        <a href="https://github.com/jamalihassan0307/YTHub/releases/download/1.1.0/app-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/ludo_verse.png" width="180"/><br>
+        <b>LudoVerse</b><br>
+        <sub>Ludo Game | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/LudoVerse/releases/download/1.0.1/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/Furniture-Purchesing-App.png" width="180"/><br>
+        <b>Furniture App</b><br>
+        <sub>Shopping | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/Furniture-Purchesing-App/releases/download/1.0.0/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/course_tracker.png" width="180"/><br>
+        <b>Course Tracker</b><br>
+        <sub>Learning Progress | Flutter, SQLite</sub><br>
+        <a href="https://github.com/jamalihassan0307/Course-Tracker/releases/download/1.0.0/app-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/EasyVid.png" width="180"/><br>
+        <b>EasyVid</b><br>
+        <sub>Video Downloader | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/EasyVid/releases/download/1.0.0/app-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/healthconnect.png" width="180"/><br>
+        <b>HealthConnect</b><br>
+        <sub>Healthcare Platform | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/HealthConnect/releases/download/v1.0.1/app-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/passkey.png" width="180"/><br>
+        <b>PassKey Auth</b><br>
+        <sub>Biometrics | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/Flutter-passkeys-authentication/releases/download/1.0.1/app-arm64-v8a-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/ShopEase.png" width="180"/><br>
+        <b>ShopEase</b><br>
+        <sub>Shopping | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/ShopEase/releases/download/1.0.0/app-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/food_dairy.png" width="180"/><br>
+        <b>Food Dairy</b><br>
+        <sub>Nutrition Tracker | Flutter, SQLite</sub><br>
+        <a href="https://github.com/jamalihassan0307/Food-Dairy-app-sql/releases/download/1.0.0/app-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/pet_health_banner.png" width="180"/><br>
+        <b>PetCare-Pro</b><br>
+        <sub>Pet Health | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/PetCare-Pro/releases/download/1.0.1/app-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/budget.png" width="180"/><br>
+        <b>Snabb Budget</b><br>
+        <sub>Budget Management | Flutter, Dart</sub><br>
+        <a href="https://github.com/jamalihassan0307/Snab-Budget/releases/download/1.0.1/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/taxtip.png" width="180"/><br>
+        <b>Taxtip</b><br>
+        <sub>Tax Management | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/TaxTip/releases/download/1.0.1/app-release.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/ui-kit.png" width="180"/><br>
+        <b>Ui-kit</b><br>
+        <sub>UI Animations | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/Ui-kit/releases/download/1.0.0/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/traval-blogging.png" width="180"/><br>
+        <b>Travel Blogging</b><br>
+        <sub>Blog Platform | React, Firebase</sub><br>
+        <a href="https://jamalihassan0307.github.io/travel-blogging-platfoam/"><b>Demo</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/cake_app.png" width="180"/><br>
+        <b>Cake App</b><br>
+        <sub>Cake Ordering | Flutter</sub><br>
+        <a href="https://github.com/jamalihassan0307/Flutter-Cake-App"><b>Repo</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/iqra.png" width="180"/><br>
+        <b>IQRA</b><br>
+        <sub>Islamic App | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/IQRA/releases/download/1.0.0/app-armeabi-v7a-release.apk"><b>APK</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/7skies.png" width="180"/><br>
+        <b>7 Skies Solution</b><br>
+        <sub>Educational Management | Flutter, Firebase</sub><br>
+        <a href="https://github.com/jamalihassan0307/7Skies/releases/download/1.0.0/app.apk"><b>APK</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/banner_snabb_busines.png" width="180"/><br>
+        <b>Snab Business</b><br>
+        <sub>Business & Finance | Flutter</sub><br>
+        <a href="#"><b>Demo</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/Ludo-app.png" width="180"/><br>
+        <b>Ludo App</b><br>
+        <sub>Ludo Game | Flutter</sub><br>
+        <a href="#"><b>Demo</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <img src="screenshots/food_sqlite_banner.png" width="180"/><br>
+        <b>Food SQLite Banner</b><br>
+        <sub>Food Tracker | Flutter, SQLite</sub><br>
+        <a href="#"><b>Demo</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/Healthcare_Management_System.png" width="180"/><br>
+        <b>Healthcare Management</b><br>
+        <sub>Healthcare | Flutter, Firebase</sub><br>
+        <a href="#"><b>Demo</b></a>
+      </td>
+      <td align="center" width="220">
+        <img src="screenshots/pet_shop.png" width="180"/><br>
+        <b>Pet Shop</b><br>
+        <sub>Pet Care | Flutter, Firebase</sub><br>
+        <a href="#"><b>Demo</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- CERTIFICATIONS -->
+<h2 align="center">📜 Certifications</h2>
+
+<ul>
+  <li><b>AI Ethics</b> – DataCamp</li>
+  <li><b>Data Processing in Shell</b> – DataCamp</li>
+  <li><b>Introduction to LLMs in Python</b> – DataCamp</li>
+  <li><b>Introduction to Mobile App Development With Flutter</b> – Alison</li>
+  <li><b>Software Engineer</b> – HackerRank</li>
+  <li><b>Software Engineer Intern</b> – HackerRank</li>
+  <li><b>Understanding Data Science</b> – DataCamp</li>
+  <li><b>Working with the OpenAI API</b> – DataCamp</li>
+  <li><b>Introduction to GitHub Concepts</b> – DataCamp</li>
+  <li><b>Introduction to ChatGPT</b> – DataCamp</li>
+</ul>
+
+---
+
+<!-- EDUCATION -->
+## 🎓 Education
+**The Islamia University of Bahawalpur**  
+Bachelor's in Computer Science (2022–2026)  
+CGPA: 3.57  
+- Open-source projects, tech workshops, AI, web & mobile dev
+
+---
+
+<!-- GITHUB STATS & TROPHIES -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamalihassan0307&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalihassan0307&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jamalihassan0307&theme=dark" />
+</p>
+
+---
+
+<!-- DECORATIVE ELEMENTS -->
+<p align="center">
+  <img src="./github-contribution-grid-snake.svg" />
 </p>
