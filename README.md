@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./thoughtworks-gif_dribbble.gif" width="400px"/>
 </p>
-<h1 align="center">Ali Hassan</h1>
+<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=true&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ali+Hassan" alt="Typing SVG" /></a></h1>
 <p align="center">
   🚀 Flutter & .NET Core Developer | Cross-Platform Apps | Scalable Web & Mobile Solutions | API & Cloud Services
 </p>
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://jamalihassan0307.github.io/portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28"/></a>
-  <a href="https://www.linkedin.com/in/ali-hassan-b17815281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/jamalihassan0307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://github.com/jamalihassan0307" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
 </p>
 
@@ -34,7 +34,7 @@
 <p align="center">
   <a href="mailto:alihassanjamtmp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://wa.me/923073921189"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/></a>
-  <a href="https://www.linkedin.com/in/ali-hassan-b17815281/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/jamalihassan0307/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 </p>
 
 ---
