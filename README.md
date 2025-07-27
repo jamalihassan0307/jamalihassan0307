@@ -16,7 +16,7 @@
 
 <ul align="center">
   <li>📱 <b>Mobile:</b> Android & iOS apps using Flutter (MVVM, Clean Architecture)</li>
-  <li>🛡️ <b>Backend:</b> Secure APIs with ASP.NET Core, Firebase, SQL</li>
+  <li>🛡️ <b>Backend:</b> Firebase, SQL RESTAPI integration</li>
   <li>🔗 <b>Integrations:</b> 3rd-party APIs, SDKs, Stripe, Gemini AI</li>
   <li>🗂️ <b>Project Management:</b> End-to-end delivery, CI/CD, team leadership</li>
 </ul>
