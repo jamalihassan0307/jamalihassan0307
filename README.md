@@ -42,7 +42,8 @@
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="icons/flutter.svg" width="40"/>
+  
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=blue"/>
 <!--   <img src="icons/NET core.svg" width="40"/> -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> -->
