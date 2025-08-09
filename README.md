@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=true&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ali+Hassan" alt="Typing SVG" /></a></h1>
 <p align="center">
-  🚀 Flutter Developer | Cross-Platform Apps | Scalable Web & Mobile Solutions | API & Cloud Services
+  🚀 Senior Flutter Developer | Cross-Platform Apps | Package Creator (160+ Pub Points) | Open Source Contributor
 </p>
 
 <!-- ABOUT ME -->
@@ -25,19 +25,53 @@
   <a href="https://jamalihassan0307.github.io/portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28"/></a>
   <a href="https://www.linkedin.com/in/jamalihassan0307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://github.com/jamalihassan0307" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-</p>
-
----
-
-<!-- CONTACT -->
-<h2 align="center">📫 Contact</h2>
-<p align="center">
   <a href="mailto:alihassanjamtmp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://wa.me/923073921189"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/></a>
-  <a href="https://www.linkedin.com/in/jamalihassan0307/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 </p>
 
 ---
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/jamalihassan0307/Food-Dairy-app-sql">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Food-Dairy-app-sql&hide_border=true" />
+  </a>
+ <a href="https://github.com/jamalihassan0307/ai_chat_plus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=ai_chat_plus&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+   <a href="https://github.com/jamalihassan0307/Flutter-Plant-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Flutter-Plant-App&hide_border=true" />
+  </a>
+  <a href="https://github.com/jamalihassan0307/Elderly-Exercisec-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Elderly-Exercisec-App&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jamalihassan0307/7Skies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=7Skies&hide_border=true" />
+  </a>
+  <a href="https://github.com/jamalihassan0307/Snab-Budget">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Snab-Budget&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jamalihassan0307/Healthcare_MS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Healthcare_MS&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jamalihassan0307?tab=repositories&q=&type=&language=&sort=stargazers">View all repositories sorted by stars</a>
+</div>
+
+---
+
 
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -325,33 +359,6 @@
     </tr>
   </table>
 </div>
-
----
-
-<!-- CERTIFICATIONS -->
-<h2 align="center">📜 Certifications</h2>
-
-<ul>
-  <li><b>AI Ethics</b> – DataCamp</li>
-  <li><b>Data Processing in Shell</b> – DataCamp</li>
-  <li><b>Introduction to LLMs in Python</b> – DataCamp</li>
-  <li><b>Introduction to Mobile App Development With Flutter</b> – Alison</li>
-  <li><b>Software Engineer</b> – HackerRank</li>
-  <li><b>Software Engineer Intern</b> – HackerRank</li>
-  <li><b>Understanding Data Science</b> – DataCamp</li>
-  <li><b>Working with the OpenAI API</b> – DataCamp</li>
-  <li><b>Introduction to GitHub Concepts</b> – DataCamp</li>
-  <li><b>Introduction to ChatGPT</b> – DataCamp</li>
-</ul>
-
----
-
-<!-- EDUCATION -->
-## 🎓 Education
-**The Islamia University of Bahawalpur**  
-Bachelor's in Computer Science (2022–2026)  
-CGPA: 3.57  
-- Open-source projects, tech workshops, AI, web & mobile dev
 
 ---
 
