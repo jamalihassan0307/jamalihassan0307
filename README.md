@@ -34,8 +34,8 @@
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jamalihassan0307/Food-Dairy-app-sql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Food-Dairy-app-sql&hide_border=true" />
+  <a href="https://github.com/jamalihassan0307/flutter-fly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=flutter-fly&hide_border=true" />
   </a>
  <a href="https://github.com/jamalihassan0307/ai_chat_plus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=ai_chat_plus&hide_border=true" />
