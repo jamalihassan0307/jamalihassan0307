@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+<!--
 ## Featured Projects
 
 <div align="center">
@@ -69,7 +69,7 @@
 <div align="center">
   <a href="https://github.com/jamalihassan0307?tab=repositories&q=&type=&language=&sort=stargazers">View all repositories sorted by stars</a>
 </div>
-
+-->
 ---
 
 
