@@ -22,7 +22,7 @@
 </ul>
 
 <p align="center">
-  <a href="https://jamalihassan0307.github.io/portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28"/></a>
+  <a href="https://jamalihassan.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="28"/></a>
   <a href="https://www.linkedin.com/in/jamalihassan0307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://github.com/jamalihassan0307" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
   <a href="mailto:alihassanjamtmp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
