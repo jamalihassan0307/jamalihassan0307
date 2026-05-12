@@ -30,49 +30,47 @@
 </p>
 
 ---
-<!--
+
 ## Featured Projects
 
 <div align="center">
   <a href="https://github.com/jamalihassan0307/flutter-fly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=flutter-fly&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=flutter-fly&hide_border=true" />
   </a>
- <a href="https://github.com/jamalihassan0307/ai_chat_plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=ai_chat_plus&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-   <a href="https://github.com/jamalihassan0307/Flutter-Plant-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Flutter-Plant-App&hide_border=true" />
-  </a>
-  <a href="https://github.com/jamalihassan0307/Elderly-Exercisec-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Elderly-Exercisec-App&hide_border=true" />
+ <a href="https://github.com/jamalihassan0307/LudoVerse">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=LudoVerse&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/jamalihassan0307/7Skies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=7Skies&hide_border=true" />
+   <a href="https://github.com/jamalihassan0307/glassmorphic_ui_kit">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=glassmorphic_ui_kit&hide_border=true" />
   </a>
-  <a href="https://github.com/jamalihassan0307/Snab-Budget">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Snab-Budget&hide_border=true" />
+  <a href="https://github.com/jamalihassan0307Ui-kit">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Ui-kit&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/jamalihassan0307/Healthcare_MS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalihassan0307&repo=Healthcare_MS&hide_border=true" />
+  <a href="https://github.com/jamalihassan0307/Simple-Ludo">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Simple-Ludo&hide_border=true" />
+  </a>
+  <a href="https://github.com/jamalihassan0307/Fast-OpenVPN">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Fast-OpenVPN&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jamalihassan0307/Seekho">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Seekho&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/jamalihassan0307?tab=repositories&q=&type=&language=&sort=stargazers">View all repositories sorted by stars</a>
 </div>
--->
+
 ---
-
-
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
