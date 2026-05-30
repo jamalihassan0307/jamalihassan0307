@@ -35,34 +35,34 @@
 
 <div align="center">
   <a href="https://github.com/jamalihassan0307/flutter-fly">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=flutter-fly&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=flutter-fly&hide_border=true&theme=dark" />
   </a>
  <a href="https://github.com/jamalihassan0307/LudoVerse">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=LudoVerse&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=LudoVerse&hide_border=true&theme=dark" />
   </a>
 </div>
 
 <div align="center">
    <a href="https://github.com/jamalihassan0307/glassmorphic_ui_kit">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=glassmorphic_ui_kit&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=glassmorphic_ui_kit&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/jamalihassan0307Ui-kit">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Ui-kit&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Ui-kit&hide_border=true&theme=dark" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/jamalihassan0307/Simple-Ludo">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Simple-Ludo&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Simple-Ludo&hide_border=true&theme=dark" />
   </a>
   <a href="https://github.com/jamalihassan0307/Fast-OpenVPN">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Fast-OpenVPN&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Fast-OpenVPN&hide_border=true&theme=dark" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/jamalihassan0307/Seekho">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Seekho&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=jamalihassan0307&repo=Seekho&hide_border=true&theme=dark" />
   </a>
 </div>
 
